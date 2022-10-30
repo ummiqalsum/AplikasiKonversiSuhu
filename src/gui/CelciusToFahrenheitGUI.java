@@ -45,7 +45,6 @@ public class CelciusToFahrenheitGUI extends javax.swing.JFrame {
 
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Konversi Suhu Celcius ke Fahrenheit");
 
         jPanel1.setBackground(new java.awt.Color(153, 255, 204));
